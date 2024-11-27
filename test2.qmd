@@ -7,9 +7,8 @@ format:
         dark: darkly
 ---
 
-::: {.nav-pills}
-::: {.panel-tabset}
-
+:::::: nav-pills
+::::: panel-tabset
 # About
 
 ## WORKSHOP 2: Introduction to Implementation Science
@@ -22,88 +21,70 @@ This introductory workshop is suitable for researchers, clinicians and policymak
 
 This workshop will cover topics such as:
 
-Implementation Science 101: an introduction for beginners
-Theories, models and frameworks for implementation
-Implementation strategies
-Implementation outcomes
-Understanding implementation context, including identifying barriers and enablers
-How to practically apply implementation science methodologies in the real-world
-The content will be delivered by a team of experts from AusHSI including Associate Professor Zephanie Tyack, Dr Bridget Abell, Dr Sundresan Naicker, Dr Michelle Allen.
+Implementation Science 101: an introduction for beginners Theories, models and frameworks for implementation Implementation strategies Implementation outcomes Understanding implementation context, including identifying barriers and enablers How to practically apply implementation science methodologies in the real-world The content will be delivered by a team of experts from AusHSI including Associate Professor Zephanie Tyack, Dr Bridget Abell, Dr Sundresan Naicker, Dr Michelle Allen.
 
 The first part of the workshop will include presentations which will give attendees a good introduction to key ideas in the field and provide examples of how implementation science and implementation frameworks have been used in the design and implementation of real-world problems and projects. The second session will be a hands-on activity where participants will be given qualitative data and interview excerpts from real implementation studies and be guided through the process of mapping this data to a selected implementation framework (CFIR or NASSS) to identify study barriers and enablers and discuss potential implementation strategies. Finally, the day will conclude with a panel Q & A session where attendees can ask the presenters their burning implementation questions or follow-up any topics from throughout the afternoon.
 
-
-### Location  
+### Location
 
 UQ Herston campus, Oral Health Building
 
-
 ### Contact
 
-All enquiries please direct to the workshop coordinator, Dr Bridget Abell at bridget.abell@qut.edu.au 
+All enquiries please direct to the workshop coordinator, Dr Bridget Abell at bridget.abell\@qut.edu.au
 
 [HSR24 Conference website](https://eventstudio.eventsair.com/hsr-2024-conference/)
-
-
-
 
 # Acivity Materials
 
 The following information is provided for the participants of [Workshop 2: Introduction to Implementation Science](https://eventstudio.eventsair.com/hsr-2024-conference/workshops), a Pre-Conference workshop at [HSR24 Conference](https://eventstudio.eventsair.com/hsr-2024-conference/)
 
-
-::: {.nav-pills}
-::: {.panel-tabset}
-
+:::: nav-pills
+::: panel-tabset
 ## Activity Worksheet
 
-#### [Case Study 1](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 1/ActivityWorksheet_CaseStudy1_Blank.docx)
+#### [Case Study 1](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case%20Study%201/ActivityWorksheet_CaseStudy1_Blank.docx)
+
 A national context assessment of developmental follow-up of children with congenital heart disease
 
+#### [Case Study 2](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case%20Study%202/ActivityWorksheet_CaseStudy2_Blank.docx)
 
-#### [Case Study 2](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 2/ActivityWorksheet_CaseStudy2_Blank.docx)
+“So, we need to optimise" – applying the NASSS framework across adoption stages to identify implementation strategies
 
-“So, we need to optimise" – applying the NASSS framework across adoption stages to identify implementation strategies 
+#### [Case Study 3](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case%20Study%203/ActivityWorksheet_CaseStudy3_Blank.docx)
 
-
-#### [Case Study 3](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 3/ActivityWorksheet_CaseStudy3_Blank.docx)
-Context assessment: Trauma informed care 
-
-
+Context assessment: Trauma informed care
 
 ## Implementation Science Frameworks
 
 #### Consolidated Framework for Implementation Research (CFIR)
+
 [CFIR website](https://cfirguide.org/constructs/)
 
-[CFIR codebook](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/CFIR General Codebook.pdf)
+[CFIR codebook](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/CFIR%20General%20Codebook.pdf)
 
 #### Nonadoption, Abandonment, Scale-up, Spread, and Sustainability (NASSS) framework
+
 [NASSS paper](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1463-x)
 
-####  Expert Recommendations for Implementing Change (ERIC) framework
+#### Expert Recommendations for Implementing Change (ERIC) framework
+
 [ERIC paper](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-015-0295-0)
 
 [ERIC codebook](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/ERIC-Strategy-Handout.pdf)
-
 
 ## Activity answers
 
 When you are ready to confirm the answers from the activity downloaded the corresponding answer sheet below.
 
-[Case Study 1 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 1/ActivityWorksheet_CaseStudy1_ANSWERS.docx) 
- 
-[Case Study 2 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 2/ActivityWorksheet_CaseStudy2_ANSWERS.docx)
+[Case Study 1 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case%20Study%201/ActivityWorksheet_CaseStudy1_ANSWERS.docx)
 
-[Case Study 3 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 3/ActivityWorksheet_CaseStudy3_ANSWERS.docx)
- 
+[Case Study 2 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case%20Study%202/ActivityWorksheet_CaseStudy2_ANSWERS.docx)
 
+[Case Study 3 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case%20Study%203/ActivityWorksheet_CaseStudy3_ANSWERS.docx)
 :::
-:::
-
-
-:::
-:::
-
+::::
+:::::
+::::::
 
 *This work is openly licensed via [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
