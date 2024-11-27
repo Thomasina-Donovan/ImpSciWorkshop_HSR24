@@ -1,12 +1,10 @@
 ---
-title: "HSR24 PreConference WORKSHOP 2: 
-Introduction to Implementation Science"
+title: "HSR24 PreConference"
 format: 
   html:
       theme:
         light: brightly
         dark: darkly
-include-in-header: Cost-IS_google_analytics.html
 ---
 
 ::: {.nav-pills}
@@ -14,12 +12,9 @@ include-in-header: Cost-IS_google_analytics.html
 
 # About
 
-## Location  
+## WORKSHOP 2: Introduction to Implementation Science
 
-UQ Herston campus, Oral Health Building
-
-
-## Workshop description
+### Workshop description
 
 The Health Services Research Association of Australia and New Zealand (HSRAANZ) is pleased to announce a half-day workshop on Implementation Science Skills in Practice, to be delivered by members of the Queensland University of Technology’s Australian Centre for Health Services Innovation (AusHSI).
 
@@ -38,7 +33,12 @@ The content will be delivered by a team of experts from AusHSI including Associa
 The first part of the workshop will include presentations which will give attendees a good introduction to key ideas in the field and provide examples of how implementation science and implementation frameworks have been used in the design and implementation of real-world problems and projects. The second session will be a hands-on activity where participants will be given qualitative data and interview excerpts from real implementation studies and be guided through the process of mapping this data to a selected implementation framework (CFIR or NASSS) to identify study barriers and enablers and discuss potential implementation strategies. Finally, the day will conclude with a panel Q & A session where attendees can ask the presenters their burning implementation questions or follow-up any topics from throughout the afternoon.
 
 
-## Contact
+### Location  
+
+UQ Herston campus, Oral Health Building
+
+
+### Contact
 
 All enquiries please direct to the workshop coordinator, Dr Bridget Abell at bridget.abell@qut.edu.au 
 
@@ -46,124 +46,42 @@ All enquiries please direct to the workshop coordinator, Dr Bridget Abell at bri
 
 
 
-# Activity
 
-A worked example of Cost-IS is provided below which may assist future users of Cost-IS. An additional user guide was produced as a result of applying Cost-IS to three real-world implementation projects as case studies (*manuscript coming soon*). The completed Cost-IS templates from the collective case study are provided as another example that may assist future users.
+# Acivity Materials
 
-### Download
+The following information is provided for the participants of [Workshop 2: Introduction to Implementation Science](https://eventstudio.eventsair.com/hsr-2024-conference/workshops), a Pre-Conference workshop at [HSR24 Conference website](https://eventstudio.eventsair.com/hsr-2024-conference/)
 
-[Cost-IS templates- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_WorkedExample_V4.xlsx)
-
-[Cost-IS user guide](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/AF_3_Cost-IS_UserGuide_V0.docx)
-
-[Cost-IS completed templates-  collective case study](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/All_CaseStudies_Cost-IS_V1.xlsx)
-
-### Worked example explained by template
 
 ::: {.nav-pills}
 ::: {.panel-tabset}
 
-## Template 1
+## Acivity Worksheet
 
-The worked example of template 1 includes four implementation strategies with associated activities and resources. Both labour and non-labour resources are included under the corresponding column and respective strategy.
-
-## Template 2
-In template 2 the entries columns ‘Activity’, ‘Strategy’ and ‘Role’ are restricted by drop down menus containing what was listed in template 1. Template 1 can be completed iteratively as required by the project.
-
-In the worked example of template 2A, all activities associated with the hypothetical implementation were recorded. The date, site and phase for each activity is recorded under the corresponding columns. Similarly, a purpose was recorded for each activity to distinguish it from other similar activities. The implementation strategy related to the respective activity was documented in the same row. 
-
-The cost is automatically calculated under the respective column when the resource, number of resource, and time spent by resource is completed. See below for how labour and non-labour resources were recorded.
-
-The source where this data was collected from is recorded in the final column.
-
-### labour resource
-Project roles involved in the activity are documented under the 'resource' column. The resource category is taken by the information provided in Template 3. Unique project roles are recorded on a separate row and the activity is repeated. For each activity, the number of personnel and the time spent (in hours) for each project role was recorded under the corresponding column. The resource is described as labour under the corresponding column.
-
-### non-labour resource
-The worked example contains two non-labour resources used in the hypothetical implementation. The activity associated with non-labour resources are recorded in Template 2 in a similar manner as described above. The unit price is taken from information provided in Template 3. The number of units per resource is recorded under 'number of personnel involved'. The resource is described as non-labour under the corresponding column.
-
-## Template 3
-Each unique resource is listed in Template 3. The entries in column 'resource’ is restricted by a drop down menu containing what was listed in template 1. Template 1 can be completed iteratively as required by the project.
-
-### labour resource
-Labour resources are listed as project roles. A resource category relevant to the project is applied to each role for granular analysis. The role's position/ tile and annual salary is provided in the following columns. The hourly cost and hourly plus oncosts is automatically calcualted in the next columns. Adapt the number of hours and oncosts as required to your project.
-
-### non-labour resource
-The worked example contains two non-labour resources used in the hypothetical implementation. Non-labour resources are listed in the bottom section of Template 3. A resource category is still applied to non-labour resources. In the next column, the resource is listed as a monetary or opportunity cost type. The source, cost year, and unit price are supplied in the following columns.
-
-## Analysis example
-
-The worked example demonstrates how implementation costs can be summarised by resource and implementation strategy. An example of how implementation cost findings may be presented are below.
-
-![ ](assets/Fig_Cost_Labour_WorkedExample.png)
-
-![ ](assets/Fig_Cost_Strategies_WorkedExample.png)
-
-:::
-:::
+#### [Case Study 1](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 1/ActivityWorksheet_CaseStudy1_Blank.docx)
+A national context assessment of developmental follow-up of children with congenital heart disease
 
 
-# Development
+#### [Case Study 2](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 2/ActivityWorksheet_CaseStudy2_Blank.docx)
 
-###### Cost-IS was developed iteratively across four phases. 
+“So, we need to optimise" – applying the NASSS framework across adoption stages to identify implementation strategies 
 
-* Phase 1 involved a systematic literature review to identify the nature of implementation costs and the methods used to measure and value these costs, within the context of hospital-based clinical decision support systems initiatives. 
 
-* Phase 2 consisted of qualitative semi-structured interviews that outlined current practices for capturing the costs associated with implementing digital health initiatives in hospital settings. 
-
-* Phase 3 development involved a modified electronic-Delphi (e-Delphi) process to generate a consensus on the core components and design of an implementation costing instrument. 
-
-* In Phase 4 the developed Cost-IS was applied to three real-world implementation projects in a collective case study.
+#### [Case Study 3](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 3/ActivityWorksheet_CaseStudy3_Blank.docx)
+Context assessment: Trauma informed care 
 
 
 
-## Development papers
-Read more about the development of Cost-IS in the following papers
+## Implementation Science Frameworks
 
-[Phase 1](https://doi.org/10.1186%2Fs13012-023-01261-8)
-
-[Phase 2](https://www.researchsquare.com/article/rs-3828958/v1) Preprint
-
-[Phase 3](https://www.researchsquare.com/article/rs-4229774/v1) Preprint
-
-Phase 4 COMING SOON
-
-## Future development
-
-Cost-IS requires further validation including applying Cost-IS from the beginning of new projects to guide prospective collection of implementation costs. Prospective data collection may allow more comprehensive and accurate data to be collected throughout the project and may reduce the reliance on informed assumptions and recall. 
-
-Investigation into incorporating contextual information with implementation cost estimates will improve Cost-IS and was a suggestion from Phase 4. The inclusion of contextual information will improve transparency of implementation cost estimates.
-
-
-
-# Contact
-
-Feel free to reach out to Thomasina via [email](mailto:thomasina.donovan@hdr.qut.edu.au)
-
-
-# Acivity Materials
-
-The following information is provided for the participants at the [Implementation Science in the Real World 2024](https://event.fourwaves.com/isrw24/pages)
-
-
-# Acivity Worksheet
-
-[Case Study 1](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 1/ActivityWorksheet_CaseStudy1_Blank.docx)
-
-[Case Study 2](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 2/ActivityWorksheet_CaseStudy2_Blank.docx)
-
-[Case Study 3](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 3/ActivityWorksheet_CaseStudy3_Blank.docx)
-
-
-
-# Implementation Science Frameworks
-
+#### Consolidated Framework for Implementation Research (CFIR)
 [CFIR website](https://cfirguide.org/constructs/)
 
 [CFIR codebook](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/CFIR General Codebook.pdf)
 
+#### Nonadoption, Abandonment, Scale-up, Spread, and Sustainability (NASSS) framework
 [NASSS paper](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1463-x)
 
+####  Expert Recommendations for Implementing Change (ERIC) framework
 [ERIC paper](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-015-0295-0)
 
 [ERIC codebook](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/ERIC-Strategy-Handout.pdf)
@@ -171,16 +89,13 @@ The following information is provided for the participants at the [Implementatio
 
 ## Activity answers
 
-::: {.nav-pills}
-::: {.panel-tabset}
+When you are ready to confirm the answers from the activity downloaded the corresponding answer sheet below.
 
-## Case Study 1
-### 
+[Case Study 1 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 1/ActivityWorksheet_CaseStudy1_ANSWERS.docx) 
+ 
+[Case Study 2 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 2/ActivityWorksheet_CaseStudy2_ANSWERS.docx)
 
-## Case Study 2
-### 
-## Case Study 3
-###
+[Case Study 3 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 3/ActivityWorksheet_CaseStudy3_ANSWERS.docx)
  
 
 :::
