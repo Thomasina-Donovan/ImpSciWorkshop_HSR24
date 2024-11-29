@@ -22,13 +22,7 @@ This introductory workshop is suitable for researchers, clinicians and policymak
 
 This workshop will cover topics such as:
 
-Implementation Science 101: an introduction for beginners
-Theories, models and frameworks for implementation
-Implementation strategies
-Implementation outcomes
-Understanding implementation context, including identifying barriers and enablers
-How to practically apply implementation science methodologies in the real-world
-The content will be delivered by a team of experts from AusHSI including Associate Professor Zephanie Tyack, Dr Bridget Abell, Dr Sundresan Naicker, Dr Michelle Allen.
+Implementation Science 101: an introduction for beginners; Theories, models and frameworks for implementation; Implementation strategies; Implementation outcomes; Understanding implementation context, including identifying barriers and enablers; and How to practically apply implementation science methodologies in the real-world. The content will be delivered by a team of experts from AusHSI including Associate Professor Zephanie Tyack, Dr Bridget Abell, Dr Sundresan Naicker, Dr Michelle Allen and Ms Thomasina Donovan.
 
 The first part of the workshop will include presentations which will give attendees a good introduction to key ideas in the field and provide examples of how implementation science and implementation frameworks have been used in the design and implementation of real-world problems and projects. The second session will be a hands-on activity where participants will be given qualitative data and interview excerpts from real implementation studies and be guided through the process of mapping this data to a selected implementation framework (CFIR or NASSS) to identify study barriers and enablers and discuss potential implementation strategies. Finally, the day will conclude with a panel Q & A session where attendees can ask the presenters their burning implementation questions or follow-up any topics from throughout the afternoon.
 
@@ -66,7 +60,7 @@ A national context assessment of developmental follow-up of children with congen
 “So, we need to optimise" – applying the NASSS framework across adoption stages to identify implementation strategies 
 
 
-#### [Case Study 3](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 3/ActivityWorksheet_CaseStudy3_Blank.docx)
+#### [Case Study 3](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 3/ActivityWorksheet_CaseStudy3_Blank_Final.docx)
 Context assessment: Trauma informed care 
 
 
@@ -95,7 +89,7 @@ When you are ready to confirm the answers from the activity downloaded the corre
  
 [Case Study 2 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 2/ActivityWorksheet_CaseStudy2_ANSWERS.docx)
 
-[Case Study 3 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 3/ActivityWorksheet_CaseStudy3_ANSWERS.docx)
+[Case Study 3 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 3/ActivityWorksheet_CaseStudy3_ANSWERS_Final.docx)
  
 
 :::
