@@ -74,13 +74,18 @@ Context assessment: Trauma informed care
 
 [CFIR codebook](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/CFIR General Codebook.pdf)
 
+
 #### Nonadoption, Abandonment, Scale-up, Spread, and Sustainability (NASSS) framework
 [NASSS paper](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1463-x)
+
+[NASSS codebook](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/NASSS Codebook.docx)
+
 
 ####  Expert Recommendations for Implementing Change (ERIC) framework
 [ERIC paper](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-015-0295-0)
 
 [ERIC codebook](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/ERIC-Strategy-Handout.pdf)
+
 
 
 ## Activity answers
