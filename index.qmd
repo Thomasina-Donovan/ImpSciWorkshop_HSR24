@@ -52,6 +52,7 @@ The following information is provided for the participants of [Workshop 2: Intro
 ## Activity Worksheet
 
 #### [Case Study 1](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 1/ActivityWorksheet_CaseStudy1_Blank.docx)
+
 A national context assessment of developmental follow-up of children with congenital heart disease
 
 
@@ -61,6 +62,7 @@ A national context assessment of developmental follow-up of children with congen
 
 
 #### [Case Study 3](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 3/ActivityWorksheet_CaseStudy3_Blank_Final.docx)
+
 Context assessment: Trauma informed care 
 
 
