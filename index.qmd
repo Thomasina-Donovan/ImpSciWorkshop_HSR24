@@ -115,6 +115,17 @@ When you are ready to confirm the answers from the activity downloaded the corre
 
 
 
+# Implementation Science Resources
+
+#### University of Washington Implementation Science Hub
+
+[What is implementation science](https://impsciuw.org/implementation-science/learn/implementation-science-overview/)
+
+[Topics in implementation science](https://impsciuw.org/implementation-science/learn/topics-in-implementation-science/)
+
+[Conducting research in implementation science](https://impsciuw.org/implementation-science/research/)
+
+
 :::
 :::
 
