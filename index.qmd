@@ -98,6 +98,8 @@ When you are ready to confirm the answers from the activity downloaded the corre
 
 [CFIR codebook](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/CFIR General Codebook.pdf)
 
+[Exemplar coding](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Exemplar coding.pdf)
+
 
 #### Nonadoption, Abandonment, Scale-up, Spread, and Sustainability (NASSS) framework
 [NASSS paper](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1463-x)
