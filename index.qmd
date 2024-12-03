@@ -108,10 +108,23 @@ When you are ready to confirm the answers from the activity downloaded the corre
 
 [NASSS-CAT](https://www.researchprotocols.org/2020/5/e16861/)
 
+Retrospective application of NASSS in a [review](https://link.springer.com/article/10.1186/s13012-023-01287-y)
+
 ####  Expert Recommendations for Implementing Change (ERIC) framework
 [ERIC paper](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-015-0295-0)
 
 [ERIC codebook](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/ERIC-Strategy-Handout.pdf)
+
+
+#### Equity Frameworks
+
+[APEASE overview](https://www.behaviourworksaustralia.org/blog/how-do-you-select-the-most-appropriate-behaviour-change-intervention)
+
+[APEASE paper](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42)
+
+[Health equity framework](https://link.springer.com/article/10.1007/s10459-023-10277-0)
+
+[A review on equity frameworks](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-023-01304-0)
 
 
 
