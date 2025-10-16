@@ -12,8 +12,7 @@ format:
 
 # About
 
-## WOohabda
-
+## WORKSHOP 2: Introduction to Implementation Science
 
 ### Workshop description
 
